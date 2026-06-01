@@ -1,5 +1,5 @@
 import StarsCanvas from "./components/canvas/stars";
-import Hero from "./components/Hero";
+import Hero from "./components/hero";
 import Navbar from "./components/Navbar";
 import About from "./components/About";
 import Skills from "./components/Skills";
